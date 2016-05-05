@@ -1,0 +1,9 @@
+Package: MultiViz
+Type: Package
+Title: MultiViz
+Version: 1.0
+Date: 2015-5-13
+Author: Amir M. Saeidi
+Maintainer: Amir M. Saeidi<A.M.Saeidi@uu.nl>
+Description: More about what it does (maybe more than one line)
+License: What Licence is it under ?
